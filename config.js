@@ -7,7 +7,6 @@ module.exports = {
     showShareButtons: true,
     postsPerPage: 5, // Required
     social: {
-        website: 'https://allegheny.edu',
         github: 'https://github.com/karolvargas',
         twitter: 'https://twitter.com/karolavargas',
         linkedin: 'https://www.linkedin.com/in/karolalbertovargas/'
