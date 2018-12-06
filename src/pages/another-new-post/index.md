@@ -1,11 +1,9 @@
 ---
-title: My Second Post!
-date: "2018-06-29"
+title: Senior Comprehensive Project!
+date: "2018-12-06"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. 
-
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+I will be releasing updates on my Senior Comprehensive project heading into 2019. My project is a logarithmic approach to shipping, calculating quotes, and estimating container sizes. 
 
 ![Train Tracks](./traintrack.jpg)
 
