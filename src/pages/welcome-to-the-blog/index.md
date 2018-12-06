@@ -9,14 +9,6 @@ featuredImage: './featured.jpg'
 - Web-Development intern at Help-Net Inc. in the Dominican Republic
 - 2.9 Major GPA
 - Winner of the community building award in 2017 for M.O.C.A.A.
- 
+
 
 <!-- end -->
-
-
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
